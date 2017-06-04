@@ -1,4 +1,3 @@
-
 # Prime Digital Academy - Pre-Work Week 5 Assignment
 
 ### Topics Covered
