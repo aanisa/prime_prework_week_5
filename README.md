@@ -1,6 +1,5 @@
 
-## Objects and Prototypes
-Here we'll take a look at using a prototype class and explore creating a new object from this class. Also, we'll delve into the basics of Object Oriented Programming by using properties and methods of an object derived from a prototype.
+# Prime Digital Academy - Pre-Work Week 5 Assignment
 
 ### Topics Covered
 * Creating a new object from a prototype class
@@ -8,7 +7,6 @@ Here we'll take a look at using a prototype class and explore creating a new obj
 * Adding a method to an object
 * Calling an object's method
 
-You can refer to the Codecademy lesson JavaScript 8 (Objects II) for reference if needed.
 
 ### Step 1
 * create a new animal named "somethingFun" with a first name of "Something" a last name of "Fun" and a type of "Cat"
